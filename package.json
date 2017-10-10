@@ -1,0 +1,34 @@
+{
+    "name": "hazy",
+    "displayName": "Hazy",
+    "description": "Hazy VSCode Theme for Operator Mono",
+    "version": "0.0.1",
+    "publisher": "lencx",
+    "homepage": "https://github.com/lencx/hazy-vs-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lencx/hazy-vs-theme"
+    },
+    "author": {
+        "name": "Len C...",
+        "email": "cxin1314@gmail.com"
+    },
+    "keywords": [
+       "hazy",
+       "theme",
+       "operator"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hazy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hazy.tmTheme"
+            }
+        ]
+    },
+    "license": "MIT"
+}
