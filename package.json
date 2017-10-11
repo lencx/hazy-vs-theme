@@ -1,8 +1,8 @@
 {
     "name": "hazy",
-    "displayName": "Hazy",
+    "displayName": "Hazy Theme",
     "description": "Hazy VSCode Theme for Operator Mono",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "publisher": "lencx",
     "homepage": "https://github.com/lencx/hazy-vs-theme",
     "repository": {

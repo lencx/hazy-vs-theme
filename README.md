@@ -4,17 +4,19 @@
 
 ## Install Operator Font
 
-- Color theme only. You need to install this [Font](https://www.typography.com/blog/introducing-operator)
+* Color theme only. You need to install this [Font](https://www.typography.com/blog/introducing-operator)
 
-- After font installation you need to set vscode setting to
+* After font installation you need to set vscode setting to
+> User Settings(Mac: `⌘+,`, Win: `⌃+,`)
 
-```bash
+```json
 "editor.fontFamily": "Operator Mono, Consolas, monospace"
+"workbench.colorTheme": "Hazy",
 ```
 
 ## Theme Installing
 
-> Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+> Launch VS Code Quick Open (Mac: `⌘+P`, Win: `⌃+P`), paste the following command, and press enter.
 
 ```bash
 ext install hazy
